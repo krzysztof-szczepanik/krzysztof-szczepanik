@@ -24,9 +24,9 @@ Currently, I'm also learning Dutch, as I enjoy expanding my knowledge beyond pro
 |:------------------------:|:---------------:|:-------------:|
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev) &nbsp;&nbsp;&nbsp; |
 
----
-
 <br>
+
+---
 
 ## 📂 Projects
 
@@ -53,9 +53,9 @@ Currently, I'm also learning Dutch, as I enjoy expanding my knowledge beyond pro
 |--------|-------------|------|
 | **File Organizer Script** | GUI PowerShell tool for organizing files and inserting custom files at intervals. | PowerShell |
 
----
-
 <br>
+
+---
 
 ## 📫 Contact
 
