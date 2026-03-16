@@ -34,7 +34,7 @@ Currently, I'm also learning Dutch, as I enjoy expanding my knowledge beyond pro
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Embedded GUI Framework** | Custom graphical framework for STM32 with screen manager and joystick navigation system. | C, STM32 |
+| **Embedded GUI Framework** | Custom graphical framework for STM32 with screen manager, joystick navigation, and dynamic menu system (originally built for a washing machine interface). | C, STM32 |
 | **3D Washing Machine Model** | Detailed 3D washing machine created in OpenGL with manually calculated geometry, lighting and shadows. | C++, OpenGL |
 
 <br>
