@@ -35,7 +35,7 @@ Currently, I'm also learning Dutch, as I enjoy expanding my knowledge beyond pro
 | Project | Description | Tech |
 |--------|-------------|------|
 | **STM32 Embedded GUI Framework [&nbsp;[Link](https://github.com/krzysztof-szczepanik/stm32-embedded-gui-framework)&nbsp;]** | Custom graphical framework for STM32 with screen manager, joystick navigation, and dynamic menu system (originally built for a washing machine controller). | C, STM32 |
-| **3D Washing Machine Model [&nbsp;[Link](https://github.com/krzysztof-szczepanik/3d-washing-machine-model)&nbsp;]** | Detailed 3D washing machine created in OpenGL with manually calculated geometry, lighting and shadows. | C++, OpenGL |
+| **3D Washing Machine Model [&nbsp;[Link](https://github.com/krzysztof-szczepanik/3d-washing-machine-model)&nbsp;]** | Detailed 3D washing machine created in OpenGL with manually defined geometry, realistic lighting and shadows. | C++, OpenGL |
 
 <br>
 
