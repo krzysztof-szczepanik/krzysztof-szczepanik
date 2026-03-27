@@ -51,7 +51,7 @@ Currently, I'm also learning Dutch, as I enjoy expanding my knowledge beyond pro
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **File Organizer Script** | GUI PowerShell tool for organizing files and inserting custom files at intervals. | PowerShell |
+| **File Interleaver Tool [&nbsp;[Link](https://github.com/krzysztof-szczepanik/file-interleaver-tool)&nbsp;]** | Lightweight tool to shuffle files and insert custom files at fixed intervals. Works with any file type and supports both single files and folders as interludes. | PowerShell, Python |
 
 <br>
 
